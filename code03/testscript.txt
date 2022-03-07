@@ -1,6 +1,0 @@
-go cave
-go field
-go field
-look around
-go kitchen
-quit
